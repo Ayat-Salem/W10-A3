@@ -1,0 +1,18 @@
+=============== Dec 14, 2021 (+03) ===============
+22:28:45.759254 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:28:45.772033 db@open opening
+22:28:45.776083 version@stat F·[] S·0B[] Sc·[]
+22:28:45.781046 db@janitor F·2 G·0
+22:28:45.781046 db@open done T·8.3533ms
+22:28:45.859909 db@close closing
+22:28:45.860921 db@close done T·1.0126ms
+=============== Dec 14, 2021 (+03) ===============
+22:37:29.321426 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:37:29.322422 version@stat F·[] S·0B[] Sc·[]
+22:37:29.322422 db@open opening
+22:37:29.323420 journal@recovery F·1
+22:37:29.335523 journal@recovery recovering @1
+22:37:29.340527 memdb@flush created L0@2 N·18 S·1KiB "\bOp..\x98\x90\xf1,v7":"\xdet\xbd..]\xdao,v6"
+22:37:29.351478 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+22:37:29.361453 db@janitor F·3 G·0
+22:37:29.361453 db@open done T·38.2123ms
